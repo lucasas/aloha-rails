@@ -10,7 +10,8 @@ define( {
 		'repository.loading': 'Loading',
 		'repository.no_items_found_yet': 'No items found yet...'
 	},
-	'de':  true
+	'de':  true,
+        'pt-br': true
 /*	'eo':  true,
 	'fi':  true,
 	'fr':  true,
